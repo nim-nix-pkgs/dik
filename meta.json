@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/juancarlospaco/dik",
   "refs": [
-    "fatal: unable to access 'https://github.com/juancarlospaco/dik/': Could not resolve host: github.com",
+    "refs/heads/nim",
     ""
   ],
   "heads": []
